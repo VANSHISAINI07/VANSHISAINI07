@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Vanshi Saini
 
-<!--
-**VANSHISAINI07/VANSHISAINI07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Full Stack Developer | 🌱 Learning and building cool stuff
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 💡 Languages: HTML, CSS, JavaScript, Python, Java
+- 🧰 Tools & Frameworks: React, Node.js, MongoDB, Git
+- 🎯 Currently learning: Docker, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 📧 Email: vanshusaini2507@gmail.com
+- 🌐 Portfolio: [Your Website Link]
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+## 🔥 GitHub Stats
+![Vanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VANSHISAINI07&show_icons=true&theme=tokyonight)
+
